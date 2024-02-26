@@ -3,13 +3,13 @@
 	"id": "deobfuscated-text",
 	"version": "${version}",
 	"name": "Deobfuscated Text",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Minecraft mod that reveals the true text under deobfuscated text.",
 	"authors": [
 		"mathgeniuszach"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.mathgeniuszach.com/",
+		"sources": "https://github.com/mathgeniuszach/deobfuscated-text"
 	},
 	"license": "MIT",
 	"icon": "assets/deobfuscated-text/icon.png",
